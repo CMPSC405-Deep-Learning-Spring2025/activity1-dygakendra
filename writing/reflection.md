@@ -39,7 +39,15 @@ What did you notice about how small changes (e.g., weights) affect outcomes?
 
 What potential biases or ethical considerations could arise in your example scenario?
 
+* The biggest source of bias would be all the factors that we did not consider when making this model. When dealing with fraudulent transactions, there could be any number of sources that could influence whether a transaction is harmful or not. So in order to make this model as accurate as possible, research needs to be done to make sure that all possible influences to fraudulent transactions are found and addressed.
+* An ethical side to this idea would be looking at how the data used for the inputs is collected, consent from users to take this data and feed it into our model would need to be granted to make sure that the model is not using private data unethically.
+
 ### Reflection
 
 What was easy to understand about the neural network?
+
+* How the inputs and weights worked was the easiest part as it simply let us know what factors played a role in the construction of the model and what factors have more weight then others.
+
 What challenges did they face?
+
+* Figuring out what the neurons and how they function in relation to the result, weights, and inputs was difficult at first as figuring out the calculation and how it relates to the overall goal could be difficult depending on the specific scenario you find yourself in.
